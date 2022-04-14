@@ -1,4 +1,4 @@
-# CRUD-MEM-RIA-EXPRESS
+# CRUD-MEMÓRIA-EXPRESS
 Projeto 1 do módulo 3 
 
 Critérios de Avaliação
